@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-**Frontend**: React, Next.js, Redux
+**Frontend**: React, Next.js, Redux  
 **Backend**: Node.js, Express, MongoDB  
 **Deployment**: Vercel
 
